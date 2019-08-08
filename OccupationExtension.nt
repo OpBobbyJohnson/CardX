@@ -3,8 +3,8 @@ _:cco_OccupationRole1 <http://www.ontologyrepository.com/CommonCoreOntologies/ha
 _:cco_ActOfInhabitancy1 <http://www.ontologyrepository.com/CommonCoreOntologies/has_object> _:cco_Facility1 .
 _:cco_Facility1 <http://purl.obolibrary.org/obo/RO_0001025> _:cco_GeospatialRegion2 .
 _:cco_Organization1 <http://www.ontologyrepository.com/CommonCoreOntologies/agent_in> _:cco_ActOfInhabitancy1 .
-_:cco_ActOfCommuting1 <http://www.ontologyrepository.com/CommonCoreOntologies/ModalRelationOntology/RO_0000057> _:cco_Bicycle1_57419c2b0547d92460adbc418cfe7cdc4142ec85_N103 .
-_:cco_Bicycle1_57419c2b0547d92460adbc418cfe7cdc4142ec85_N103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologyrepository.com/CommonCoreOntologies/Bicycle> .
+_:cco_ActOfCommuting1 <http://www.ontologyrepository.com/CommonCoreOntologies/ModalRelationOntology/RO_0000057> _:cco_Object1_57419c2b0547d92460adbc418cfe7cdc4142ec85_N103 .
+_:cco_Object1_57419c2b0547d92460adbc418cfe7cdc4142ec85_N103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "transportation_object" .
 _:cco_Preference1 <http://www.ontologyrepository.com/CommonCoreOntologies/ModalRelationOntology/BFO_0000054> _:cco_ActOfCommuting1 .
 _:cco_Facility1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologyrepository.com/CommonCoreOntologies/Facility> .
 _:cco_DesignativeName4 <http://purl.obolibrary.org/obo/RO_0010001> _:cco_InformationBearingEntity16_887bae88a9498223e999616cd2395bc56baabd01_N81 .
